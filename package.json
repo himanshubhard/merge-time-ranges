@@ -1,0 +1,11 @@
+{
+  "name": "merge-time-ranges",
+  "version": "1.0.0",
+  "description": "SDE Assignment - Nov 2025",
+  "main": "my-module.js",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "author": "Himanshu Bhardwaj",
+  "license": "ISC"
+}
